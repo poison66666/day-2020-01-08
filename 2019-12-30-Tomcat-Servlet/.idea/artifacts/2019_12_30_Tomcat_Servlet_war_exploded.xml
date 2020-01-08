@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="2019-12-30-Tomcat-Servlet:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/2019_12_30_Tomcat_Servlet_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="2019-12-30-Tomcat-Servlet" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="2019-12-30-Tomcat-Servlet/web/Web" />
+    </root>
+  </artifact>
+</component>
